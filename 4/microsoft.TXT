@@ -1,0 +1,36 @@
+|------------------------------------------------------------------------------------------|
+|                                      WinMTR statistics                                   |
+|                       Host              -   %  | Sent | Recv | Best | Avrg | Wrst | Last |
+|------------------------------------------------|------|------|------|------|------|------|
+|                             192.168.1.1 -    0 |  127 |  127 |    1 |    2 |    7 |    1 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                          89.178.245.157 -    2 |  122 |  120 |    1 |    4 |   33 |    7 |
+|                           smtp1.tlsa.ru -    1 |  123 |  122 |    2 |    4 |   43 |    5 |
+|                             81.211.0.62 -    0 |  127 |  127 |   27 |   28 |   48 |   28 |
+|                             81.211.0.63 -    0 |  127 |  127 |   27 |   28 |   48 |   28 |
+|                           212.133.1.222 -    0 |  127 |  127 |   36 |   38 |   48 |   37 |
+|                           212.133.1.221 -    2 |  120 |  118 |   36 |   40 |   94 |   37 |
+|         ae2.3208.ear5.ams1.neo.colt.net -   97 |   27 |    1 |    0 |   70 |   70 |   70 |
+|           ae84-0.ier01.amb.ntwk.msn.net -    0 |  127 |  127 |   60 |   70 |  152 |   75 |
+|         ae27-0.icr03.ams30.ntwk.msn.net -    0 |  127 |  127 |   60 |   67 |  132 |  126 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|       ae1010-0.icr04.par21.ntwk.msn.net -    0 |  127 |  127 |   66 |   71 |  144 |   66 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |   26 |    0 |    0 |    0 |    0 |    0 |
+|________________________________________________|______|______|______|______|______|______|
+   WinMTR v0.92 GPL V2 by Appnor MSP - Fully Managed Hosting & Cloud Provider
